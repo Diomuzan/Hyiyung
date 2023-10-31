@@ -1,0 +1,15 @@
+C:\Projects\Hyiyung\bin\Debug\net8.0\Hyiyung.exe
+C:\Projects\Hyiyung\bin\Debug\net8.0\Hyiyung.deps.json
+C:\Projects\Hyiyung\bin\Debug\net8.0\Hyiyung.runtimeconfig.json
+C:\Projects\Hyiyung\bin\Debug\net8.0\Hyiyung.dll
+C:\Projects\Hyiyung\bin\Debug\net8.0\Hyiyung.pdb
+C:\Projects\Hyiyung\obj\Debug\net8.0\Hyiyung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Hyiyung\obj\Debug\net8.0\Hyiyung.AssemblyInfoInputs.cache
+C:\Projects\Hyiyung\obj\Debug\net8.0\Hyiyung.AssemblyInfo.cs
+C:\Projects\Hyiyung\obj\Debug\net8.0\Hyiyung.csproj.CoreCompileInputs.cache
+C:\Projects\Hyiyung\obj\Debug\net8.0\Hyiyung.sourcelink.json
+C:\Projects\Hyiyung\obj\Debug\net8.0\Hyiyung.dll
+C:\Projects\Hyiyung\obj\Debug\net8.0\refint\Hyiyung.dll
+C:\Projects\Hyiyung\obj\Debug\net8.0\Hyiyung.pdb
+C:\Projects\Hyiyung\obj\Debug\net8.0\Hyiyung.genruntimeconfig.cache
+C:\Projects\Hyiyung\obj\Debug\net8.0\ref\Hyiyung.dll
